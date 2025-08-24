@@ -1,0 +1,111 @@
+.font{
+    font-size: 80px;
+}
+.bb{
+    width: 400px;
+    height: 800px;
+    background-image: url(./assets/apple\ 1.jpg);
+}
+.b-1{
+    width: 400px;
+    height: 800px;
+    background-image: url(./assets/apple\ 2.jpg);
+}
+.b-2{
+    width: 400px;
+    height: 800px;
+    background-image: url(./assets/apple\ 3.jpg);
+}
+.p{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 620px;
+    margin-left: 330px;
+}
+.bar{
+    font-size: 30px;
+}
+.h{
+    margin-bottom: 50px;
+}
+.p:hover{
+    background-color: black !important;
+    color: aliceblue;
+}
+.w{
+    margin-left: 1200px;
+}
+.v{
+    width: 230px;
+    height: 300px;
+    margin-left: 100px !important;
+}
+.k{
+    margin-left: 150px;
+}
+.l{
+    margin-left: 180px;
+}
+.kl{
+    width: 200px;
+    height: 310px;
+    margin-left: 100px !important;
+
+    
+}
+.kp{
+    margin-left: 150px;
+}
+.lp{
+    margin-left: 180px;
+}
+.text-class{
+    margin-left: 120px;
+}
+.text-clas{
+    margin-left: 140px;
+}
+.www{
+    width: 130px;
+    height: 50px;
+    border-radius: 50px;
+    margin-left: 130px;
+}
+.ttt{
+    margin-left: 70px;
+}
+.msss{
+
+    padding-left: 60px;
+}
+.mssss{
+    margin-left: 90px;
+}
+.aks-bg{
+    background-image: url();
+}
+.aida:hover{
+    scale: 0.9;
+    transition: all 0.3s;
+overflow: hidden;
+}
+/* hover tooye tailwind chetotie */
+.height-box{
+    height: 320px;
+}
+.zizi{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-left: 260px;
+    margin-bottom: 50px;
+    background-color: black !important;
+}
+.box-magsafe{
+    height: 600px;
+    width: 600px;
+}
+.bg-sec{
+    background-color: #F5F5F7;
+}
